@@ -11,7 +11,7 @@ education:
 work_experience:
   - company: ExxonMobil PNG Ltd
     position: Integrity Engineer 
-    duration: 2023 - Present
+    duration: 2024 - Present
     description: My role as a Integrity engineer is primarily concerned with keeping and maintaining the integrity of the pipelines, pressure equipments, machinery and structures to ensure that all collectively contribute in keeping the gas in the pipe. I support the upstream LNGP facility; Hide Gas Conditioning Plant (HGCP) with the wellpads as my area of responsibility. 
 skills:
   - MS excel, word, powerpoint. 
